@@ -19,5 +19,6 @@
   - {contest_name}/inディレクトリも作成
   - score_calc.py:{contest_name}/
   - テストデータ:{contest_name}/in/
-3. for_hypara_marathon.ipynbを実行
+3. for_hypara_marathon.ipynb内のパラメータ調整部分を各自のパラメータに変更 
+4. for_hypara_marathon.ipynbを実行
 
